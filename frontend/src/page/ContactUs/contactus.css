@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+
+p{
+    color: black;
+}
+
+.inp {
+    border:none;
+    border-bottom: 1px solid #1890ff;
+    padding: 5px 10px;
+    outline: none;
+ }
